@@ -3,187 +3,148 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Bernd Rathmanner
+    tagline: Software Architecture Enthusiast
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: bernd.rathmanner@gmail.com
+    phone:
+    website: #do not add http://
+    linkedin: bernd-rathmanner-739533176
+    xing: Bernd_Rathmanner2
+    github: sideshowcecil
     gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    bitbucket: sideshow_bob
+    twitter: '@BerndRathmanner'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: German
         level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Software Engineering and Architecture
         link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+      - item: Firefighting
+        link: https://www.ff-wiesmath.at/
+      - item: Community Theater
+        link: https://www.buehnehollenthon.at/
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      Software architecture enthusiast focusing on software architecture and cloud native applications.
+      Passionate about using modern technology and very keen to improve on existing skills and to learn new ones.
+
+      Expertise:
+      - 5+ years experience as a Software Architect focusing on Microservices and classic server-client architectures.
+      - 5+ years developing web based and console applications using PHP.
+      - 3+ years experience developing distributed applications using Java.
+      - Hands-on AWS knowledge focusing on EC2, RDS, EKS and Lambda.
+      - Linux and Windows operations and management.
+
+skills:
+    title: Skills & Proficiency
+    toolset:
+      - name: Microservices
+        level: 95%
+      - name: DevOps
+        level: 90%
+      - name: Cloud providers (AWS & Azure)
+        level: 90%
+      - name: PHP
+        level: 90%
+      - name: k8s
+        level: 85%
+      - name: Java
+        level: 75%
+      - name: C#
+        level: 75%
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: |
+        Enterprise Architect
+      time: 2017 - Present
+      company: '<a href="https://www.sportradar.com/">Sportradar AG</a>'
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Further development by taking over the IT operations team and being able to follow own ideas in both software architecture and infrastructure management.
+
+        - Designing of web based and distributed applications focusing on microservice architectures.
+        - Responsibility for further developing the DevOps culture by maintaining the CI/CD pipeline.
+        - Consulting and supporting of developers using code reviews and knowledge sharing.
+        - IT Operations lead with 5 employees located in Vienna and Tallinn:
+          - Responsibility of the whole Windows stack for 2000+ employees incl. mail server infrastructure using Exchange and Office 365.
+          - Providing infrastructure for developers using the infrastructure as code.
+        - Continued lead of a team of 3 quality engineers further developing the team:
+          - Introducing test automation using different tools.
+          - Focus on test coverage and performance testing.
+
+    - role: Solutions Architect
+      time: 2014 - 2017
+      company: '<a href="https://www.sportradar.com/">LAOLA1 Multimedia GmbH / Sportradar AG</a>'
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Transition from part time job to full time employee focusing on software architecture and quality assurance.
+
+        - Designing of web-based applications using PHP and Java.
+        - Supporting developers by developing core components used across the company.
+        - Introducing the DevOps culture by creating and maintaining the CI/CD pipeline and managing the used CDN.
+        - Maintaining automation tools for the Windows administration team.
+        - Lead of a team of 3 quality engineers integrating quality assurance into the company.
+        - Basic requirements engineering for both development and quality assurance tasks.
+
+    - role: Developer & Network Engineer
+      time: 2009 - 2014
+      company: '<a href="https://www.sportradar.com/">LAOLA1 Multimedia GmbH</a>'
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Part time job taken during early years of studying at the TU Vienna.
+
+        - Development of tools used by the network engineers using C# and PHP.
+          - Automation of creating users in Microsoft Active Directory
+          - Software used for inventory management.
+        - Supporting the Microsoft Windows and Linux infrastructure.
+        - First- and second level user support.
+
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: |
+      Some side projects done either in my free time, studies or work.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: myx-monitor
+        link: "https://github.com/sideshowcecil/myx-monitor"
+        tagline: "Master theses for monitoring decentralized architectures using the myx framework."
+      - title: throttle
+        link: "https://github.com/sideshowcecil/throttle"
+        tagline: "A library to do rate limiting in PHP."
+      - title: php-model
+        link: "https://github.com/sideshowcecil/php-model"
+        tagline: "A framework providing abstractions for databases or HTTP APIs using PHP."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+education:
+    - degree: MSc in Software Engineering
+      university: '<a href="https://www.tuwien.at/en/studies/studies/master-programmes/computational-science-and-engineering/">TU Vienna</a>'
+      time: 2013 - 2016
+      details:
+    - degree: BSc in Software Engineering
+      university: '<a href="https://www.tuwien.at/en/studies/studies/bachelor-programmes/computer-science-and-business-informatics/computer-science-and-business-informatics/">TU Vienna</a>'
+      time: 2008 - 2013
+      details:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro:
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Decentralized Run-time Architecture Tracking
+        link: "https://publik.tuwien.ac.at/showentry.php?ID=251585&lang=6"
+        authors:
+        conference: Master theses monitoring decentralized architectures.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer:
