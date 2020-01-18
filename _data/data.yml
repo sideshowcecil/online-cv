@@ -48,6 +48,7 @@ career-profile:
       Expertise:
       - 5+ years experience as a Software Architect focusing on Microservices and classic server-client architectures.
       - 5+ years developing web based and console applications using PHP.
+      - 5+ years experience maintaining different kinds of databases (MySQL / Percona Server, Percona XtraDB Cluster)
       - 3+ years experience developing distributed applications using Java.
       - Hands-on AWS knowledge focusing on EC2, RDS, EKS and Lambda.
       - Linux and Windows operations and management.
@@ -64,6 +65,8 @@ skills:
       - name: PHP
         level: 90%
       - name: k8s
+        level: 85%
+      - name: MySQL / Percona Server & Percona XtraDB Cluster
         level: 85%
       - name: Java
         level: 75%
@@ -83,7 +86,8 @@ experiences:
         - Consulting and supporting of developers using code reviews and knowledge sharing.
         - IT Operations lead with 5 employees located in Vienna and Tallinn:
           - Responsibility of the whole Windows stack for 2000+ employees incl. mail server infrastructure using Exchange and Office 365.
-          - Providing infrastructure for developers using the infrastructure as code.
+          - Providing infrastructure for developers using the infrastructure as code using Puppet and CloudFormation.
+          - Infrastructure automation using Bash and Powershell.
         - Continued lead of a team of 3 quality engineers further developing the team:
           - Introducing test automation using different tools.
           - Focus on test coverage and performance testing.
