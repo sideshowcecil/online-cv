@@ -88,6 +88,7 @@ experiences:
           - Responsibility of the whole Windows stack for 2000+ employees incl. mail server infrastructure using Exchange and Office 365.
           - Providing infrastructure for developers using the infrastructure as code using Puppet and CloudFormation.
           - Infrastructure automation using Bash and Powershell.
+          - Managing multiple NetApp storage systems across multiple locations.
         - Continued lead of a team of 3 quality engineers further developing the team:
           - Introducing test automation using different tools.
           - Focus on test coverage and performance testing.
