@@ -51,6 +51,7 @@ career-profile:
       - 5+ years experience using, maintaining and optimizing different kinds of databases (MySQL / Percona Server, Percona XtraDB Cluster)
       - 3+ years experience developing distributed applications using Java.
       - Hands-on AWS knowledge focusing on EC2, RDS, EKS and Lambda.
+      - Hands-on Azure knowledge focusing on AAD, Azure VMs and Networking.
       - Linux and Windows operations and management.
 
 skills:
@@ -61,6 +62,8 @@ skills:
       - name: DevOps
         level: 90%
       - name: Cloud providers (AWS & Azure)
+        level: 90%
+      - name: Python
         level: 90%
       - name: PHP
         level: 90%
@@ -75,8 +78,18 @@ skills:
 
 experiences:
     - role: |
+        Senior Consultant
+      time: 2020 - Present
+      company: '<a href="https://www.consultr.at/">Consult/R</a>'
+      details: |
+        Building up a cloud and container consulting division with focus on k8s, Rancher and Terraform.
+
+        - Consulting projects for transitioning to an Infrastructure as Code platform.
+        - Consulting k8s management projects focusing on multi tenancy models.
+        - Development of internal monitoring suite, introducing cloud and k8s related monitoring.
+    - role: |
         Enterprise Architect
-      time: 2017 - Present
+      time: 2017 - 2020
       company: '<a href="https://www.sportradar.com/">Sportradar AG</a>'
       details: |
         Further development by taking over the IT operations team and being able to follow own ideas in both software architecture and infrastructure management.
