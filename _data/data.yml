@@ -78,6 +78,12 @@ skills:
 
 experiences:
     - role: |
+        Chief Technical Architect
+      time: 2022 - Present
+      company: '<a href="https://www.automatics.ai/">automatics</a>'
+      details: |
+        Architectural- and development lead of automatics focusing on SAP Basis automation tasks.
+    - role: |
         Senior Consultant
       time: 2020 - Present
       company: '<a href="https://www.consultr.at/">Consult/R</a>'
