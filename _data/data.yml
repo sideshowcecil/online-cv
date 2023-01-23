@@ -80,13 +80,13 @@ experiences:
     - role: |
         Chief Technical Architect
       time: 2022 - Present
-      company: '<a href="https://www.automatics.ai/">automatics</a>'
+      company: '<a href="https://www.automatics.ai/" target="_blank">automatics</a>'
       details: |
         Architectural- and development lead of automatics focusing on SAP Basis automation tasks.
     - role: |
         Senior Consultant
       time: 2020 - Present
-      company: '<a href="https://www.consultr.at/">Consult/R</a>'
+      company: '<a href="https://www.consultr.at/" target="_blank">Consult/R</a>'
       details: |
         Building up a cloud and container consulting division with focus on k8s, Rancher and Terraform.
 
@@ -96,7 +96,7 @@ experiences:
     - role: |
         Enterprise Architect
       time: 2017 - 2020
-      company: '<a href="https://www.sportradar.com/">Sportradar AG</a>'
+      company: '<a href="https://www.sportradar.com/" target="_blank">Sportradar AG</a>'
       details: |
         Further development by taking over the IT operations team and being able to follow own ideas in both software architecture and infrastructure management.
 
@@ -114,7 +114,7 @@ experiences:
 
     - role: Solutions Architect
       time: 2014 - 2017
-      company: '<a href="https://www.sportradar.com/">LAOLA1 Multimedia GmbH / Sportradar AG</a>'
+      company: '<a href="https://www.sportradar.com/" target="_blank">LAOLA1 Multimedia GmbH / Sportradar AG</a>'
       details: |
         Transition from part time job to full time employee focusing on software architecture and quality assurance.
 
@@ -127,7 +127,7 @@ experiences:
 
     - role: Developer & Network Engineer
       time: 2009 - 2014
-      company: '<a href="https://www.sportradar.com/">LAOLA1 Multimedia GmbH</a>'
+      company: '<a href="https://www.sportradar.com/" target="_blank">LAOLA1 Multimedia GmbH</a>'
       details: |
         Part time job taken during early years of studying at the TU Vienna.
 
@@ -154,11 +154,11 @@ projects:
 
 education:
     - degree: MSc in Software Engineering
-      university: '<a href="https://www.tuwien.at/en/studies/studies/master-programmes/computational-science-and-engineering/">TU Vienna</a>'
+      university: '<a href="https://www.tuwien.at/en/studies/studies/master-programmes/computational-science-and-engineering/" target="_blank">TU Vienna</a>'
       time: 2013 - 2016
       details:
     - degree: BSc in Software Engineering
-      university: '<a href="https://www.tuwien.at/en/studies/studies/bachelor-programmes/computer-science-and-business-informatics/computer-science-and-business-informatics/">TU Vienna</a>'
+      university: '<a href="https://www.tuwien.at/en/studies/studies/bachelor-programmes/computer-science-and-business-informatics/computer-science-and-business-informatics/" target="_blank">TU Vienna</a>'
       time: 2008 - 2013
       details:
 
